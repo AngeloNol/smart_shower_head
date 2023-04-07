@@ -1,16 +1,11 @@
-# smart_shower_head
+# Smart Shower Head
 
-A new Flutter project.
+## Description
+This is an Android companion app, built using the Flutter framework, for Smart Shower Head which is our UNLV EE 497-498 Senior design project. Smart Shower Head is an improvement of the typical shower head found in common households by converting it to a smart home device. Our improved shower head will be able to play music from Spotify, make emrgency calls, and display information such as water temperature and humidity using an LCD. The purpose of this application is to connect to our Smart Shower Head's ESP32-S3-DevKitM-1 development board via bluetooth and perform the aforementioned functions hands-free using Alan AI, a voice recognition conversational AI platform, similar to Amazon Alexa. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Components
+- [Flutter](https://flutter.dev/)
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+- [Alan AI Flutter Plugin](https://alan.app/docs/client-api/cross-platform/flutter/)
+- [ESP32-S3-DevKitM-1](https://docs.flutter.dev/get-started/codelab)
+- [Arduino IDE](https://www.arduino.cc/en/software)
